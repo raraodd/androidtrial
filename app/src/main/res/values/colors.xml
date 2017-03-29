@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F506F</color>
+    <color name="colorPrimaryDark">#324058</color>
+    <color name="colorAccent">#BCC7D5</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorDarkBlue">#3F506F</color>
+    <color name="colorLightBlue">#5EA8D6</color>
+    <color name="colorSoftBlue">#90ADD6</color>
+    <color name="colorBlueButton">#4A79B7</color>
+
+    <color name="colorBackground">#F3F4FF</color>
+    <color name="colorGrayBackgroundTint">#BCC7D5</color>
+    <color name="colorGrayTextColor">#7E848C</color>
+    <color name="colorGrayHint">#A0A0A0</color>
+    <color name="colorGraySeparator">#E7EAEF</color>
+    <color name="colorGrayTransparent">#80F2F4FF</color>
+    <color name="colorTransparent">#80000000</color>
+
+    <!--Related to Assignment-->
+    <color name="colorBlueSeparator">#4A79B7</color>
+    <color name="colorUnvisited">#5089D4</color>
+    <color name="colorUnvisitedSelected">#5374B0</color>
+    <color name="colorOnProgress">#5D799D</color>
+    <color name="colorOnProgressSelected">#515C70</color>
+    <color name="colorCompleted">#8B9FBA</color>
+    <color name="colorCompletedSelected">#76808F</color>
+
+    <!--Related to Date Picker-->
+    <color name="colorWeekend">#5089D4</color>
+    <color name="colorWeekdays">#3F506F</color>
+    <color name="colorHighlightToday">#3F506F</color>
+    <color name="colorSelectedDate">#A7B8CE</color>
+
+    <!--Related to Sell Out View-->
+    <color name="colorSellOutBackground">#EAF3FF</color>
+    <color name="colorBlueDropdown">#AABEE2</color>
+    <color name="colorTabLayoutBackground">#6E8FCD</color>
+    <color name="colorTabLayout">#6E8FCD</color>
+    <color name="colorTabLayoutSelected">#627EB2</color>
+    <color name="colorTabLayoutPressed">#627EB2</color>
+    <color name="colorGraySellOut">#F1F1F1</color>
+
+    <!--Related to Performance View-->
+    <color name="colorBlueSaveProgressBar">#4385E6</color>
+    <color name="colorGraySaveProgress">#AFCEF1</color>
+    <color name="colorBlueInProgressBar">#627EB2</color>
+    <color name="colorBlueProgressBar">#324058</color>
+
+    <!--Related to Save, Check in, and Check out-->
+    <color name="colorBlueButtonSave">#8B9FBA</color>
+    <color name="colorButtonSaveSelected">#76869C</color>
+    <color name="colorBlueButtonCheckIn">#5089D4</color>
+    <color name="colorButtonCheckInSelected">#4971A5</color>
+    <color name="colorBlueButtonCheckout">#5089D4</color>
+    <color name="colorButtonCheckoutSelected">#4170AE</color>
+
+    <!--Related to Navigation Menu-->
+    <color name="colorBlueMenuSelected">#2D3C57</color>
+    <color name="colorBlueTextSelected">#8BBDFF</color>
+
+</resources>
